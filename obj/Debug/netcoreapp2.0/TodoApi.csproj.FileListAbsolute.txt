@@ -1,0 +1,10 @@
+/home/hussain/Desktop/projects/dotnetTest/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.deps.json
+/home/hussain/Desktop/projects/dotnetTest/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.json
+/home/hussain/Desktop/projects/dotnetTest/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.dev.json
+/home/hussain/Desktop/projects/dotnetTest/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.dll
+/home/hussain/Desktop/projects/dotnetTest/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.pdb
+/home/hussain/Desktop/projects/dotnetTest/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csproj.CoreCompileInputs.cache
+/home/hussain/Desktop/projects/dotnetTest/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfoInputs.cache
+/home/hussain/Desktop/projects/dotnetTest/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfo.cs
+/home/hussain/Desktop/projects/dotnetTest/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.dll
+/home/hussain/Desktop/projects/dotnetTest/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.pdb
